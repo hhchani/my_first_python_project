@@ -1,6 +1,5 @@
 import time
 import streamlit as st
-from streamlit_extras.let_it_rain import rain
 
 # Zodiac data with emojis and personality traits
 zodiac_data = {
