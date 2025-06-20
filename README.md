@@ -13,7 +13,6 @@ Experience the app now: [https://mzfinder.streamlit.app/](https://mzfinder.strea
 - 🌍 **11 Languages** supported
 - ♈ Accurate **zodiac sign calculation**
 - 📊 Detailed **personality analysis**
-- 💞 Compatibility insights with other signs
 - 📱 Fully responsive design
 
 ## 🚀 Quick Start
