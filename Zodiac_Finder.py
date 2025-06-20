@@ -1,5 +1,19 @@
 import time
 import streamlit as st
+zodiac_emojis = {
+    "Capricorn": "♑",
+    "Aquarius": "♒",
+    "Pisces": "♓",
+    "Aries": "♈",
+    "Taurus": "♉",
+    "Gemini": "♊",
+    "Cancer": "♋",
+    "Leo": "♌",
+    "Virgo": "♍",
+    "Libra": "♎",
+    "Scorpio": "♏",
+    "Sagittarius": "♐"
+}
 
 
 def show_progress(duration=3, width=20):
@@ -80,6 +94,6 @@ if name:  # Only proceed if name is entered
             show_progress()
             zodiac_sign = get_zodiac(birth_month, birth_day)
             st.balloons()
-            st.success(f"Hello, **{name}**! Your zodiac sign is: **{zodiac_sign}**")
+            st.success(f"Hello, **{name}**! Your zodiac sign is: **{zodiac_sign} {zodiac_emojis[zodiac_sign]}**")
         else:
-            st.error(f"Invalid date: {birth_month}, {birth_day} does not exist.")
+            st.error("❌ Invalid date! That day doesn't exist in that month.")
