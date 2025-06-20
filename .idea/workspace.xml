@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22ed835d-c5ea-4ae3-aa92-f4f638954272" name="Changes" comment="✨ FEAT: Add zodiac sign emojis (♈♉♒)&#10;&#10;- Created emoji dictionary for all 12 signs  &#10;- Updated result display with symbols  &#10;- Kept original text fallback">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zodiac_Finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zodiac_Finder.py" afterDir="false" />
-    </list>
+    <list default="true" id="22ed835d-c5ea-4ae3-aa92-f4f638954272" name="Changes" comment="✨ FEAT: Add zodiac sign emojis (♈♉♒)&#10;&#10;- Created emoji dictionary for all 12 signs&#10;- Adding 10 languages selections  &#10;- Updated result display with symbols  &#10;- Compatibility insights with other signs&#10;- replaced interactive UI &quot;Balloons&quot; with &quot;star rain&quot;animations&#10;- Kept original text fallback" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750303756388</updated>
       <workItem from="1750303757444" duration="20497000" />
-      <workItem from="1750455431104" duration="1829000" />
+      <workItem from="1750455431104" duration="2224000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -101,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750443315680</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="✨ FEAT: Add zodiac sign emojis (♈♉♒)&#10;&#10;- Created emoji dictionary for all 12 signs&#10;- Adding 10 languages selections  &#10;- Updated result display with symbols  &#10;- Compatibility insights with other signs&#10;- replaced interactive UI &quot;Balloons&quot; with &quot;star rain&quot;animations&#10;- Kept original text fallback">
+      <option name="closed" value="true" />
+      <created>1750457653404</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750457653404</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +126,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="✨ FEAT: Add zodiac sign emojis (♈♉♒)&#10;&#10;- Created emoji dictionary for all 12 signs  &#10;- Updated result display with symbols  &#10;- Kept original text fallback" />
-    <option name="LAST_COMMIT_MESSAGE" value="✨ FEAT: Add zodiac sign emojis (♈♉♒)&#10;&#10;- Created emoji dictionary for all 12 signs  &#10;- Updated result display with symbols  &#10;- Kept original text fallback" />
+    <MESSAGE value="✨ FEAT: Add zodiac sign emojis (♈♉♒)&#10;&#10;- Created emoji dictionary for all 12 signs&#10;- Adding 10 languages selections  &#10;- Updated result display with symbols  &#10;- Compatibility insights with other signs&#10;- replaced interactive UI &quot;Balloons&quot; with &quot;star rain&quot;animations&#10;- Kept original text fallback" />
+    <option name="LAST_COMMIT_MESSAGE" value="✨ FEAT: Add zodiac sign emojis (♈♉♒)&#10;&#10;- Created emoji dictionary for all 12 signs&#10;- Adding 10 languages selections  &#10;- Updated result display with symbols  &#10;- Compatibility insights with other signs&#10;- replaced interactive UI &quot;Balloons&quot; with &quot;star rain&quot;animations&#10;- Kept original text fallback" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pyhton_pycharm$Zodiac_Finder.coverage" NAME="Zodiac_Finder Coverage Results" MODIFIED="1750455634101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

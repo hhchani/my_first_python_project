@@ -734,12 +734,6 @@ def main():
                 st.success(lang["valid_date"].format(birth_month, birth_day))
                 show_progress()
                 zodiac_sign = get_zodiac(birth_month, birth_day)
-                rain(
-                    emoji="⭐",
-                    font_size=30,
-                    falling_speed=5,
-                    animation_length=1
-                )
 
                 # Main result
                 data = zodiac_data[zodiac_sign]
